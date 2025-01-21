@@ -1,1 +1,1 @@
-nohup ./hello > output.log 2>&1
+nohup ./hello > /dev/null 2>&1 &
